@@ -554,7 +554,6 @@ const techParticles = [
     { text: "XL", color: "#217346" },       // Excel Green
     { text: "Np", color: "#013243" },       // NumPy Dark Blue
     { text: "Pd", color: "#150458" },       // Pandas Dark Blue
-    { text: "JS", color: "#F7DF1E" },       // JS Yellow
     { text: "AWS", color: "#FF9900" }       // AWS Orange
 ];
 
